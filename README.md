@@ -1,5 +1,4 @@
 # progress-belajar
-progress selama belajar di dicoding academy
 **9 Februari 2026**<br>
 Belajar pengelanalan ke logika pemrograman di dicoding academy
 * Belajar mengenai apa itu logika pemrograman.
