@@ -10,3 +10,8 @@ Belajar lebih mengenai dasar git dengan github
 * mengetahui apa saja command pada github.
 * Belajar membuat repository baru,menambahkan file,menulis readme.md.
 * Progress belajar naik sekitar 20%.
+
+**11 Februari 2026**<br>
+Belajar mengenai branch dan juga merge
+* Belajar membuat branch baru
+* Belajar merge dua branch
